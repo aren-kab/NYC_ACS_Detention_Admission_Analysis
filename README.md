@@ -10,5 +10,7 @@ Each dataset is available via the NYC Open Data Portal:
 The approach in analysis of the notebook is as follows:
 
 A) An analysis of the data by borough in totals and in context of population
+<br>
 B) Vizualising and Mapping the results by borough 
+<br>
 C) A look into community districts with the most detentions
